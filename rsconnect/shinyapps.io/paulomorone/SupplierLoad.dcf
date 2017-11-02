@@ -1,0 +1,13 @@
+name: SupplierLoad
+title: SupplierLoad
+username:
+account: paulomorone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 230865
+bundleId: 1056853
+url: https://paulomorone.shinyapps.io/SupplierLoad/
+when: 1509655963.79367
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: load_data.csv|load_data2.csv
